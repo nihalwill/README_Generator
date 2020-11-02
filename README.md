@@ -1,3 +1,9 @@
+All files functional
+Below is a sample README generated with this assignment
+![] (Assets/recording.gif)
+
+
+
 
   # **Homework 9 README**
   
