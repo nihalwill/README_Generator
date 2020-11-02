@@ -15,3 +15,23 @@ function createFile(data, githubInfo) {
   - [Repository Link](#Repository)
   - [GitHub Info](#GitHub) 
   ## Installation
+          ${data.installation}
+  ## Usage
+  ${data.usage}
+  ## Licence
+  ${data.licence}
+  ## Contributors
+  ${data.contributing}
+  ## Test
+  ${data.test}
+  ## Repository
+  - [Project Repo](${data.repo})
+  ## GitHub
+  ![Image](${githubInfo.githubImage})
+  - ${githubInfo.name}
+  - [GitHub Profile](${githubInfo.profile})
+  - <${githubInfo.email}>
+  `;
+  }
+  
+  module.exports = createFile;
