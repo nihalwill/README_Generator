@@ -7,7 +7,7 @@ Below is a sample README generated with this assignment
 
   # **Homework 9 README**
   
-  ![] (Assets/recording.gif)
+  ![](Assets/recording.gif)
   
   ## Description 
   README Generator for Developers
